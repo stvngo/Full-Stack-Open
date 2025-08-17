@@ -1,3 +1,3 @@
-# Test Repository
+# Full Stack Open
 
-This is for testing purposes
+A repository for the full-stack course at the University of Helsinki
